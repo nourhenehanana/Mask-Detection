@@ -25,4 +25,5 @@ The final layers of the MobileNetV2 model are modified to include a custom class
 
 The trained model is saved and can be tested in real time using OpenCV.
 The "detect_mask_video" script allows users to use their webcam or input video streams to detect the presence or absence of masks on individuals.
+
 ![git1](https://github.com/nourhenehanana/Mask-Detection/assets/93352403/92b4751c-3927-4f80-a337-10b527816d7f)
